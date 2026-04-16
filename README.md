@@ -50,10 +50,10 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MostafaMo17&show_icons=true&theme=tokyonight"/>
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaMo17&theme=tokyonight"/>
 
 </p>
 
@@ -63,7 +63,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MostafaMo17&theme=react-dark"/>
 
 </p>
 
