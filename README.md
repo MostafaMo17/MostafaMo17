@@ -146,6 +146,15 @@
 
 ---
 
+## 🔥 Fun Quote
+
+> 💬 "Code is like art — simple design and clean logic create something amazing ✨"
+
+<p align="center">
+<img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="222"/>
+</p>
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -174,15 +183,6 @@
 
 </div>
 
----
-
-## 🔥 Fun Quote
-
-> 💬 "Code is like art — simple design and clean logic create something amazing ✨"
-
-<p align="center">
-<img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="222"/>
-</p>
 ---
 
 <div align="center">
