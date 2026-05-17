@@ -10,9 +10,9 @@
 
 </div>
 
-<img align="right" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 ## 👨‍💻 About Me
+
+<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🎓 Computer Science Student
 - 💜 Frontend Developer passionate about creating modern web applications
@@ -170,10 +170,6 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MostafaMo17&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaMo17&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://streak-stats.demolab.com?user=MostafaMo17&theme=tokyonight&hide_border=true"/>
 
 </div>
@@ -185,7 +181,7 @@
 > 💬 "Code is like art — simple design and clean logic create something amazing ✨"
 
 <p align="center">
-<img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="120"/>
+<img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="222"/>
 </p>
 ---
 
