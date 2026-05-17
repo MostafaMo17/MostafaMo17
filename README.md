@@ -12,6 +12,12 @@
 
 ---
 
+<p align="center">
+<img src="YOUR_UPLOADED_IMAGE_LINK_HERE" width="500"/>
+</p>
+
+---
+
 <img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 👨‍💻 About Me
@@ -30,11 +36,121 @@
 
 ## 🛠 Tech Stack
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center" width="140">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,cpp,python,mysql,git,github,vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=html" width="48"/><br>
+<b>HTML5</b>
 
-</div>
+</td>
+
+<td align="center" width="140">
+
+<img src="https://skillicons.dev/icons?i=css" width="48"/><br>
+<b>CSS3</b>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://skillicons.dev/icons?i=js" width="48"/><br>
+<b>JavaScript</b>
+
+</td>
+
+<td align="center" width="140">
+
+<img src="https://skillicons.dev/icons?i=ts" width="48"/><br>
+<b>TypeScript</b>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>
+<b>Bootstrap</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>
+<b>Tailwind</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>
+<b>C++</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br>
+<b>Python</b>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>
+<b>MySQL</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br>
+<b>Git</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br>
+<b>GitHub</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>
+<b>VS Code</b>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=figma" width="48"/><br>
+<b>Figma</b>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=postman" width="48"/><br>
+<b>Postman</b>
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
@@ -69,6 +185,16 @@
 <img height="170" src="https://streak-stats.demolab.com?user=MostafaMo17&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+## 🔥 Fun Quote
+
+> 💬 "Code is like art — simple design and clean logic create something amazing ✨"
+
+<p align="center">
+<img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="120"/>
+</p>
 
 ---
 
