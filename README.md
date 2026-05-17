@@ -18,7 +18,7 @@
 
 ---
 
-<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 👨‍💻 About Me
 
@@ -195,27 +195,6 @@
 <p align="center">
 <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="120"/>
 </p>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/MostafaMo17/MostafaMo17/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-## ✨ Visitors Count
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=MostafaMo17&color=blueviolet)
-
-</div>
-
 ---
 
 <div align="center">
