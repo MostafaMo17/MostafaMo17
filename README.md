@@ -10,7 +10,7 @@
 
 </div>
 ---
-<img align="right" height="300" padding-top="40" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" height="200" padding-top="40" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 👨‍💻 About Me
 
