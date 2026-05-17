@@ -1,75 +1,99 @@
-# 👋 Hi, I'm Mostafa Mohamed
+<div align="center">
 
-🎓 Third-year Computer Science Student  
-💻 Web Design & Frontend Developer (Learning & Building)
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="220"/>
 
----
+# Hey 👋 I'm Mustafa Mohamed
 
-## 🌐 Connect with Me
+### Frontend Developer 💻
 
-<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=Frontend+Developer+💜;Building+Modern+Web+Apps+🚀;Passionate+about+UI%2FUX+✨;Always+Learning+New+Technologies+📚;Creating+Amazing+Projects+🔥" />
 
-<a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/mostafa-mohamed-a89126382?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/your-username">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mo77mohamed66@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-## 🧠 About Me
+<img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎯 Focused on becoming a Frontend Developer  
-- 🌱 Currently learning Web Design, UI/UX  
-- 🚀 Building real-world projects to improve my skills  
-- 💡 Love clean UI and simple user experiences  
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Student  
+- 💜 Frontend Developer passionate about creating modern web applications  
+- 🚀 Building real-world projects and interactive user experiences  
+- 💡 Interested in UI/UX and clean code principles  
+- 📚 Currently learning advanced frontend technologies and backend development  
+- 🔥 Love solving problems and learning new things  
+- ✨ Always improving and exploring new tech  
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,cpp,python,mysql,git,github,vscode,figma,postman"/>
 
-</p>
+</div>
 
+---
 
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mustafa-mohamed-a89126382/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+
+<a href="https://www.instagram.com/mostafa_mohamed1.7?igsh=cnd2bHB4MW9mN2k4">
+<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+</a>
+
+<a href="https://github.com/MostafaMo17">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
+</a>
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MostafaMo17&show_icons=true&theme=tokyonight"/>
-<br/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MostafaMo17&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MostafaMo17&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MostafaMo17&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+<img height="170" src="https://streak-stats.demolab.com?user=MostafaMo17&theme=tokyonight&hide_border=true"/>
 
----
-
-## 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MostafaMo17&theme=react-dark"/>
-
-</p>
+</div>
 
 ---
 
-## ⚡ Fun Fact
+## 🐍 Contribution Snake
 
-✨ I believe clean code = clean mind  
-🚀 Always improving one project at a time  
+<div align="center">
+
+![snake gif](https://github.com/MostafaMo17/MostafaMo17/blob/output/snake.svg)
+
+</div>
+
+---
+
+## ✨ Visitors Count
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=MostafaMo17&color=blueviolet)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
+
+</div>
