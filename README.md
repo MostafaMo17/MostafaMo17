@@ -16,13 +16,13 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Computer Science Student  
-- 💜 Frontend Developer passionate about creating modern web applications  
-- 🚀 Building real-world projects and interactive user experiences  
-- 💡 Interested in UI/UX and clean code principles  
-- 📚 Currently learning advanced frontend technologies and backend development  
-- 🔥 Love solving problems and learning new things  
-- ✨ Always improving and exploring new tech  
+- 🎓 Computer Science Student
+- 💜 Frontend Developer passionate about creating modern web applications
+- 🚀 Building real-world projects and interactive user experiences
+- 💡 Interested in UI/UX and clean code
+- 📚 Currently learning frontend & backend technologies
+- 🔥 Love solving problems and building projects
+- ✨ Always learning new technologies
 
 <br clear="right"/>
 
@@ -42,15 +42,15 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mustafa-mohamed-a89126382/">
+<a href="https://www.linkedin.com/in/mustafa-mohamed-a89126382/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="https://www.instagram.com/mostafa_mohamed1.7?igsh=cnd2bHB4MW9mN2k4">
+<a href="https://instagram.com/mostafa_mohamed1.7" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
 </a>
 
-<a href="https://github.com/MostafaMo17">
+<a href="https://github.com/MostafaMo17" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
@@ -76,7 +76,7 @@
 
 <div align="center">
 
-![snake gif](https://github.com/MostafaMo17/MostafaMo17/blob/output/snake.svg)
+![Snake animation](https://github.com/MostafaMo17/MostafaMo17/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
