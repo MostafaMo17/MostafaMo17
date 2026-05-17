@@ -9,16 +9,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=Frontend+Developer+💜;Building+Modern+Web+Apps+🚀;Passionate+about+UI%2FUX+✨;Always+Learning+New+Technologies+📚;Creating+Amazing+Projects+🔥" />
 
 </div>
-
 ---
-
-<p align="center">
-<img src="YOUR_UPLOADED_IMAGE_LINK_HERE" width="500"/>
-</p>
-
----
-
-<img align="right" height="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" height="300" padding-top="40" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 👨‍💻 About Me
 
