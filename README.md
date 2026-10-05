@@ -4,23 +4,26 @@
 
 # Hey 👋 I'm Mustafa Mohamed
 
-### Frontend Developer 💻
+### Full Stack Developer | Angular & .NET 💻
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A020F0&center=true&vCenter=true&width=700&lines=Frontend+Developer+💜;Building+Modern+Web+Apps+🚀;Passionate+about+UI%2FUX+✨;Always+Learning+New+Technologies+📚;Creating+Amazing+Projects+🔥" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A020F0&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+💜;C%23+%7C+.NET+Developer+⚡;Building+Modern+Web+Applications+🚀;Frontend+%26+Backend+Development+💻;Passionate+about+UI%2FUX+✨;Always+Learning+New+Technologies+📚;Turning+Ideas+Into+Real+Projects+🔥" />
 
 </div>
+
+---
 
 ## 👨‍💻 About Me
 
 <img align="right" height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 🎓 Computer Science Student
-- 💜 Frontend Developer passionate about creating modern web applications
+- 🎓 Final-year Computer Science Student
+- 💻 Full Stack Developer | C# & .NET
+- 🌐 Passionate about building modern web applications
 - 🚀 Building real-world projects and interactive user experiences
-- 💡 Interested in UI/UX and clean code
-- 📚 Currently learning frontend & backend technologies
-- 🔥 Love solving problems and building projects
-- ✨ Always learning new technologies
+- 🎨 Interested in UI/UX, clean code, and modern web development
+- ⚡ Developing both frontend and backend solutions
+- 🧠 Love problem solving and turning ideas into real projects
+- 📚 Always learning and improving my technical skills
 
 <br clear="right"/>
 
@@ -30,32 +33,25 @@
 
 <table align="center">
 <tr>
-<td align="center" width="140">
 
+<td align="center" width="140">
 <img src="https://skillicons.dev/icons?i=html" width="48"/><br>
 <b>HTML5</b>
-
 </td>
 
 <td align="center" width="140">
-
 <img src="https://skillicons.dev/icons?i=css" width="48"/><br>
 <b>CSS3</b>
-
 </td>
 
 <td align="center" width="140">
-
 <img src="https://skillicons.dev/icons?i=js" width="48"/><br>
 <b>JavaScript</b>
-
 </td>
 
 <td align="center" width="140">
-
 <img src="https://skillicons.dev/icons?i=ts" width="48"/><br>
 <b>TypeScript</b>
-
 </td>
 
 </tr>
@@ -63,81 +59,91 @@
 <tr>
 
 <td align="center">
+<img src="https://skillicons.dev/icons?i=angular" width="48"/><br>
+<b>Angular</b>
+</td>
 
+<td align="center">
 <img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br>
 <b>Bootstrap</b>
-
 </td>
 
 <td align="center">
-
 <img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br>
-<b>Tailwind</b>
-
+<b>Tailwind CSS</b>
 </td>
 
 <td align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>
-<b>C++</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=python" width="48"/><br>
-<b>Python</b>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>
-<b>MySQL</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=git" width="48"/><br>
-<b>Git</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=github" width="48"/><br>
-<b>GitHub</b>
-
-</td>
-
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>
-<b>VS Code</b>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
 <img src="https://skillicons.dev/icons?i=figma" width="48"/><br>
 <b>Figma</b>
+</td>
 
+</tr>
+
+<!-- Backend -->
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=csharp" width="48"/><br>
+<b>C#</b>
 </td>
 
 <td align="center">
+<img src="https://skillicons.dev/icons?i=dotnet" width="48"/><br>
+<b>.NET</b>
+</td>
 
+<td align="center">
+<img src="https://skillicons.dev/icons?i=dotnet" width="48"/><br>
+<b>ASP.NET Core</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=sqlserver" width="48"/><br>
+<b>SQL Server</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="48"/><br>
+<b>MySQL</b>
+</td>
+
+<td align="center">
 <img src="https://skillicons.dev/icons?i=postman" width="48"/><br>
 <b>Postman</b>
+</td>
 
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br>
+<b>Git</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br>
+<b>GitHub</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br>
+<b>VS Code</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br>
+<b>C++</b>
+</td>
+
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br>
+<b>Python</b>
 </td>
 
 </tr>
@@ -153,22 +159,27 @@
 <p align="center">
 <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="222"/>
 </p>
--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+---
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mustafa-mohamed-a89126382/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<a href="https://www.linkedin.com/in/mustafa-mohamed-a89126382/">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/>
 </a>
 
-<a href="https://instagram.com/mostafa_mohamed1.7" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/mostafa_mohamed1.7">
+<img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram"/>
 </a>
 
-<a href="https://github.com/MostafaMo17" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/MostafaMo17">
+<img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/>
 </a>
 
 </div>
